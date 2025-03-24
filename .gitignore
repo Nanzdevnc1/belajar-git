@@ -1,0 +1,8 @@
+# Contoh meng-ignore folder, contoh nama-folder/
+Log/
+
+# Contoh meng-ignore semua file dengan ekstensi .backup
+*.backup
+
+# Contoh meng-ignore file secara spesifik
+ignore.txt
