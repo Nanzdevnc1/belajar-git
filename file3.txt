@@ -1,0 +1,3 @@
+Ini adalah file3.txt
+Masih ada yang kurang
+Ini juga lupa
