@@ -6,3 +6,4 @@ Diedit di feature/b
 Feature C
 Master
 Master Rebase
+Feature Merge Squash
