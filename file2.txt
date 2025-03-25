@@ -3,3 +3,4 @@ Menambahkan baris baru di dalam file2.txt
 Diedit di dalam branch feature/2
 Diedit di feature/a
 Feature Rebase
+Feature Merge Squash
