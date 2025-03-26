@@ -1,3 +1,4 @@
 [submodule "scripts"]
 	path = scripts
 	url = git@github.com:Nanzdevnc1/git-module.git
+	branch = release
