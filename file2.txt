@@ -5,3 +5,4 @@ Diedit di feature/a
 Feature Rebase
 Feature Merge Squash
 For Other User
+For Pull Request
